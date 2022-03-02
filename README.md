@@ -8,7 +8,7 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology. Hello there
 >
 > — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
